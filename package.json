@@ -1,0 +1,23 @@
+{
+  "name": "ASB-Kauri",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "morgan": "~1.9.0",
+    "qrcode-terminal": "^0.12.0",
+    "uport": "^0.6.2",
+    "uport-cli-client": "^0.1.0",
+    "uport-connect": "^0.7.3"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "Vishnu Devarajan",
+  "license": "ISC",
+  "description": "ASB Demo"
+}
